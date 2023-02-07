@@ -6,24 +6,47 @@ const RESOURCES = {
   "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "4bbe1f3cd1cab45811e36194baaca208",
+"assets/NOTICES": "59f84ea4930c0112833c2095b86e494a",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"favicon.ico": "dc38b94d7ec4cb4a877238a081adb298",
+"assets/shaders/ink_sparkle.frag": "f8934e91578284ccf29b654fc35e16f8",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "648032adbafb26fd6e6046ff32cb3497",
-"/": "648032adbafb26fd6e6046ff32cb3497",
-"main.dart.js": "d31acc9b4de66b63e04f9a61584ad4f4",
-"manifest.json": "43f80832883fc2c2eb4c4fc0a252c65d",
-"version.json": "9693bc6a111a82db2380a7ef63048bf2"
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
+"icons/android-icon-144x144.png": "33a7cfb4dae1abc3f4daa1ce125432f4",
+"icons/android-icon-192x192.png": "f352ffcf036e17273e8bb97a95b7c963",
+"icons/android-icon-36x36.png": "8dcc11ba1a9f1e80f46837aa12e29f18",
+"icons/android-icon-48x48.png": "15cb56d784e34963317336e803a2ec68",
+"icons/android-icon-72x72.png": "aa2697d25e33e65acfc1630c97d25278",
+"icons/android-icon-96x96.png": "41062e81e959970beed72cedac2527f0",
+"icons/apple-icon-114x114.png": "d10c6b97b7d5d510074f53967f44aeda",
+"icons/apple-icon-120x120.png": "3ded244a51295d810509984d34de0cc0",
+"icons/apple-icon-144x144.png": "33a7cfb4dae1abc3f4daa1ce125432f4",
+"icons/apple-icon-152x152.png": "1c6fec6944c7bfd273f6b59a9517b925",
+"icons/apple-icon-180x180.png": "334d3b8aadd5be4306373728b38feca8",
+"icons/apple-icon-57x57.png": "00f7e8908202619aa31b7537cc7292de",
+"icons/apple-icon-60x60.png": "0718c97c80ffb70f116f7c665a2184d3",
+"icons/apple-icon-72x72.png": "aa2697d25e33e65acfc1630c97d25278",
+"icons/apple-icon-76x76.png": "916008c96d547e1efa496762c19a759e",
+"icons/apple-icon-precomposed.png": "800ece26c46d6bb8dd3599f0aef6161b",
+"icons/apple-icon.png": "0c11af29f87ae8511e359efa736e31b8",
+"icons/browserconfig.xml": "653d077300a12f09a69caeea7a8947f8",
+"icons/favicon-16x16.png": "b86230f0d2bcd215c9b65795790ad0ec",
+"icons/favicon-32x32.png": "3cb7c52b15bab7645bccbd512abf88c3",
+"icons/favicon-96x96.png": "51b1ce61e9105e12713bdeae47089715",
+"icons/favicon.ico": "c7a95fe4929885a57970ad71a054b7a8",
+"icons/manifest.json": "b58fcfa7628c9205cb11a1b2c3e8f99a",
+"icons/ms-icon-144x144.png": "856e151f58c59d98b865ad0518a754cd",
+"icons/ms-icon-150x150.png": "49b8b403a288f64bb3eefcca0194448c",
+"icons/ms-icon-310x310.png": "dd8cf6b48d78e7c0e6de92667bb2aa97",
+"icons/ms-icon-70x70.png": "e1306f8573a05159aeaefcf3fe161620",
+"index.html": "27d6d917cc9b1d4d96218fae2990ec1d",
+"/": "27d6d917cc9b1d4d96218fae2990ec1d",
+"main.dart.js": "355b6b4e289c95ea8b427fd43d8668f3",
+"manifest.json": "bfcfbb367e6a4544d6f9bd4bc84114bc",
+"version.json": "03acefc4795e8573b194262cd3a4419f"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -31,7 +54,6 @@ const RESOURCES = {
 const CORE = [
   "main.dart.js",
 "index.html",
-"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
@@ -130,9 +152,11 @@ self.addEventListener("fetch", (event) => {
     .then((cache) =>  {
       return cache.match(event.request).then((response) => {
         // Either respond with the cached resource, or perform a fetch and
-        // lazily populate the cache.
+        // lazily populate the cache only if the resource was successfully fetched.
         return response || fetch(event.request).then((response) => {
-          cache.put(event.request, response.clone());
+          if (response && Boolean(response.ok)) {
+            cache.put(event.request, response.clone());
+          }
           return response;
         });
       })

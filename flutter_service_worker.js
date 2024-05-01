@@ -16,7 +16,7 @@ const RESOURCES = {"assets/asset/about_me_icon.png": "5a03fb3e5a4ac253ba8d4c5ee5
 "assets/AssetManifest.bin.json": "6cdb0775e058f5581eefbdce78bee770",
 "assets/AssetManifest.json": "7702d2b70705799e7e9d104d311c9905",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "c7d18dccb80271fb8f7ec24bc8a60a65",
+"assets/fonts/MaterialIcons-Regular.otf": "db6df0ac7e58c86c4e30f06d5ad148ad",
 "assets/google_font/GrandHotel-Regular.ttf": "4c534f3e376249c52bcab0f94333a264",
 "assets/google_font/Monoton-Regular.ttf": "d20753b0996b7092460eef623995f880",
 "assets/NOTICES": "92eddfa3d127ee0b2898fc9944ea611e",
@@ -61,9 +61,9 @@ const RESOURCES = {"assets/asset/about_me_icon.png": "5a03fb3e5a4ac253ba8d4c5ee5
 "icons/ms-icon-150x150.png": "49b8b403a288f64bb3eefcca0194448c",
 "icons/ms-icon-310x310.png": "dd8cf6b48d78e7c0e6de92667bb2aa97",
 "icons/ms-icon-70x70.png": "e1306f8573a05159aeaefcf3fe161620",
-"index.html": "f478371d04d1a28dee20ee070225fc46",
-"/": "f478371d04d1a28dee20ee070225fc46",
-"main.dart.js": "5ecf08ead1357a8916b0056304954dd9",
+"index.html": "24ee4150e3700f6a28c9cf2a30cd476e",
+"/": "24ee4150e3700f6a28c9cf2a30cd476e",
+"main.dart.js": "0c240f0ffad18216834ca1486a3780b7",
 "manifest.json": "bfcfbb367e6a4544d6f9bd4bc84114bc",
 "version.json": "e51507b6f8af804e60fef7ee4c0af910"};
 // The application shell files that are downloaded before a service worker can
